@@ -1,4 +1,4 @@
-# Georgiy Kuzevanov | AI-Native Product Architect 🧠
+# Georgiy | AI-Native Product Architect 🧠
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE-accent?style=for-the-badge&logo=google-chrome)](https://henneessy.github.io/cv/)
 [![Telegram](https://img.shields.io/badge/TELEGRAM-CONTACT-blue?style=for-the-badge&logo=telegram)](https://t.me/KuzGeorgiy)
